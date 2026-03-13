@@ -329,7 +329,7 @@ with torch.no_grad():
 *Software Engineer & AI Developer*
 *Final Year Software Engineering Student — FAST NUCES*
 
-[![Email](https://img.shields.io/badge/Email-engrnadeem.26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrnadeem.26@gmail.com)
+[![Email](https://img.shields.io/badge/Email-engrnadeem26%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:engrnadeem26@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nadeem%20Ahmad-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nadeem-ahmad3/)
 
 </div>
